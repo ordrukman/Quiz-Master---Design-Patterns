@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af112add178da19479f5f00e273f5835, type: 3}
+  m_Name: Question 4
+  m_EditorClassIdentifier: 
+  question: Which of the following describes the State pattern correctly?
+  answers:
+  - In this pattern, a class behavior changes based on its state.
+  - In this pattern, a null object replaces check of NULL object instance.
+  - In this pattern, a class behavior or its algorithm can be changed at run time.
+  - In this pattern, an abstract class exposes defined way(s)/template(s) to execute
+    its methods.
+  currectAnswerIndex: 0
