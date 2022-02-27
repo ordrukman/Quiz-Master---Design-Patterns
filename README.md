@@ -27,11 +27,3 @@ The Final Screen:
 
 
 
-🔭 I’m currently working at Cisco as a software engineer.
-🌱 I’m currently learning app development with Blazor and C#.
-🥅 2021 Goals: Contribute to an Open Source project.
-I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
-
-Connect with me 📫:
-matanm28 | LinkedInmatanm28 | Facebookmatanm28 | Instagrammatanm28 | Twitter
-
