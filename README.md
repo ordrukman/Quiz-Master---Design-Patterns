@@ -24,3 +24,14 @@ Picking the wrong answer:
 The Final Screen:
 
 <img width="881" alt="image" src="https://user-images.githubusercontent.com/92392940/155739192-4875f597-7a74-480e-8576-08f1ccc52b2c.png">
+
+
+
+🔭 I’m currently working at Cisco as a software engineer.
+🌱 I’m currently learning app development with Blazor and C#.
+🥅 2021 Goals: Contribute to an Open Source project.
+I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
+
+Connect with me 📫:
+matanm28 | LinkedInmatanm28 | Facebookmatanm28 | Instagrammatanm28 | Twitter
+
